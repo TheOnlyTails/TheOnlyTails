@@ -20,8 +20,13 @@
 [<img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>][androidstudio]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
 
+<br/>
+
+### My repos
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=rubymod&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Github stats
-<img align="left" alt="TheOnlyTails' GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=TheOnlyTails&show_icons=true&hide_border=true&theme=dark"/>
+<img align="left" alt="TheOnlyTails' GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=TheOnlyTails&include_all_commits=true&show_icons=true&hide_border=true&theme=dark"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyTails&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
