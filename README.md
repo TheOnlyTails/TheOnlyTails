@@ -1,4 +1,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/TheOnlyTails?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/The_Only_Tails?label=Follow&style=social)
 
 ### Hi there, I'm TheOnlyTails! 👋
 
@@ -9,7 +10,7 @@
 - ⚡ Fun fact: My favorite word in the English language is kerfuffle.
 
 ### Connect with me!
-![Twitter Follow](https://img.shields.io/twitter/follow/The_Only_Tails?label=Follow&style=social)
+[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png"/>][twitter]
 
 ### Languages and tools!
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>][java]
@@ -30,6 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyTails&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[twitter]: https://twitter.com/The_Only_Tails
 [java]: https://www.java.com
 [kotlin]: https://www.kotlinlang.org/
 [python]: https://www.python.org
