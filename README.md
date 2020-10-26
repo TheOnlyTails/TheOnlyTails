@@ -11,6 +11,7 @@
 
 ### Connect with me!
 [<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png"/>][twitter]
+[<img align="left" alt="Reddit" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>][reddit]
 
 <br/>
 
@@ -26,7 +27,12 @@
 <br/>
 
 ### My repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=rubymod&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/theonlytails/rubymod">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=rubymod&theme=dark" />
+</a>
+<a href="https://github.com/theonlytails/discordbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=discordbot&theme=dark" />
+</a>
 
 ### Programming stats
 <img align="left" alt="TheOnlyTails' GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=TheOnlyTails&include_all_commits=true&show_icons=true&hide_border=true&theme=dark"/>
@@ -36,6 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyTails&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/The_Only_Tails
+[reddit]: https://www.reddit.com/user/TheOnlyTails
 [java]: https://www.java.com
 [kotlin]: https://www.kotlinlang.org/
 [python]: https://www.python.org
