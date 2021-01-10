@@ -18,9 +18,11 @@
 ### Languages and tools!
 [<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg"/>][java]
 [<img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg"/>][kotlin]
+[<img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/csharp.svg"/>][csharp]
 [<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg"/>][python]
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://simpleicons.org/icons/intellijidea.svg"/>][intellij]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>][vscode]
+[<img align="left" alt="Unity" width="26px" src="https://simpleicons.org/icons/unity.svg"/>][unity]
 
 <br/>
 
@@ -39,10 +41,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyTails&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[twitter]: https://twitter.com/The_Only_Tails
-[reddit]: https://www.reddit.com/user/TheOnlyTails
-[java]: https://www.java.com
+[twitter]: https://twitter.com/The_Only_Tails/
+[reddit]: https://www.reddit.com/user/TheOnlyTails/
+[java]: https://www.java.com/
 [kotlin]: https://www.kotlinlang.org/
-[python]: https://www.python.org
+[python]: https://www.python.org/
 [intellij]: https://www.jetbrains.com/idea/
-[vscode]: https://code.visualstudio.com
+[vscode]: https://code.visualstudio.com/
+[unity]: https://unity.com/
+[csharp]: https://dotnet.microsoft.com/languages
