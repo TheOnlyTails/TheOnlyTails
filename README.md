@@ -4,7 +4,8 @@
 ### Hi there, I'm TheOnlyTails! 👋
 
 ## I'm a programmer and a Minecraft modder!
-- 🌱 I’m currently learning how to mod Minecraft with Forge!
+- 🌱 I’m currently learning how to mod Minecraft with Forge and Fabric!
+- 🧑‍🎓 I'm also learning how to use the Ktor framework!
 - 📫 Reach me at Twitter! 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite word in the English language is kerfuffle.
@@ -18,7 +19,7 @@
 ### Languages and tools!
 [<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg"/>][java]
 [<img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg"/>][kotlin]
-[<img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/csharp.svg"/>][csharp]
+[<img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/csharp.svg"/>][csharp]
 [<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg"/>][python]
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://simpleicons.org/icons/intellijidea.svg"/>][intellij]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>][vscode]
@@ -30,8 +31,8 @@
 <a href="https://github.com/theonlytails/rubymod">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=rubymod&theme=dark" />
 </a>
-<a href="https://github.com/theonlytails/discordbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=discordbot&theme=dark" />
+<a href="https://github.com/theonlytails/latexbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=latexbot&theme=dark" />
 </a>
 
 ### Programming stats
