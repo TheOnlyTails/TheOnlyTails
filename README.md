@@ -31,8 +31,8 @@
 <a href="https://github.com/theonlytails/rubymod">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=rubymod&theme=dark" />
 </a>
-<a href="https://github.com/theonlytails/latexbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=latexbot&theme=dark" />
+<a href="https://github.com/theonlytails/rubymodfabric">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=rubymodfabric&theme=dark" />
 </a>
 
 ### Programming stats
