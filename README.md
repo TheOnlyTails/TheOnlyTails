@@ -40,7 +40,7 @@
 
 [![TheOnlyTails' Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheOnlyTails)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyTails&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyTails&hide=cs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/The_Only_Tails/
 [reddit]: https://www.reddit.com/user/TheOnlyTails/
