@@ -11,19 +11,19 @@
 - ⚡ Fun fact: My favorite word in the English language is kerfuffle.
 
 ### Connect with me!
-[<img align="left" alt="Twitter" width="26px" src="https://simpleicons.org/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg"/>][twitter]
 [<img align="left" alt="Reddit" width="26px" src="https://simpleicons.org/icons/reddit.svg"/>][reddit]
 
 <br/>
 
 ### Languages and tools!
-[<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg"/>][java]
-[<img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg"/>][kotlin]
-[<img align="left" alt="C#" width="26px" src="https://simpleicons.org/icons/csharp.svg"/>][csharp]
-[<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg"/>][python]
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://simpleicons.org/icons/intellijidea.svg"/>][intellij]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>][vscode]
-[<img align="left" alt="Unity" width="26px" src="https://simpleicons.org/icons/unity.svg"/>][unity]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>][java]
+[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>][kotlin]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>][csharp]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>][python]
+[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg"/>][intellij]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
+[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>][unity]
 
 <br/>
 
