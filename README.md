@@ -4,8 +4,7 @@
 ### Hi there, I'm TheOnlyTails! 👋
 
 ## I'm a programmer and a Minecraft modder!
-- 🌱 I’m currently learning how to mod Minecraft with Forge and Fabric!
-- 🧑‍🎓 I'm also learning how to use the Ktor framework!
+- 💻 I’m usually working on Minecraft mods, with both the [Forge](https://github.com/MinecraftForge/MinecraftForge) and [Fabric](https://github.com/FabricMC/fabric) fram
 - 📫 Reach me at Twitter! 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite word in the English language is kerfuffle.
