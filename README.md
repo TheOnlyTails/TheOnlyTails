@@ -1,10 +1,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/TheOnlyTails?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/The_Only_Tails?label=Follow&style=social)
 
-### Hi there, I'm TheOnlyTails! 👋
+# Hi there, I'm [TheOnlyTails](https://home.theonlytails.com)! 👋
 
 ## I'm a programmer and a Minecraft modder!
-- 💻 I’m usually working on Minecraft mods, with both the [Forge](https://github.com/MinecraftForge/MinecraftForge) and [Fabric](https://github.com/FabricMC/fabric) fram
+- 💻 I’m usually working on Minecraft mods, with both the [Forge](https://github.com/MinecraftForge/MinecraftForge) and [Fabric](https://github.com/FabricMC/fabric) modding APIs.
 - 📫 Reach me at Twitter! 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite word in the English language is kerfuffle.
@@ -20,7 +20,7 @@
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>][kotlin]
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>][csharp]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>][python]
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg"/>][intellij]
+[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://raw.githubusercontent.com/JetBrains/intellij-community/master/platform/icons/src/Logo_welcomeScreen.png"/>][intellij]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
 [<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>][unity]
 
