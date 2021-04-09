@@ -36,8 +36,6 @@
 ### Programming stats
 <img align="left" alt="TheOnlyTails' GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=TheOnlyTails&include_all_commits=true&show_icons=true&hide_border=true&theme=dark"/>
 
-[![TheOnlyTails' Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheOnlyTails)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyTails&hide=c%23,shaderlab,hlsl&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/The_Only_Tails/
