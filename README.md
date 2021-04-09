@@ -25,12 +25,12 @@
 
 <br/>
 
-### My repos
+### My projects
 <a href="https://github.com/theonlytails/rubymod">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=rubymod&theme=dark" />
 </a>
-<a href="https://github.com/theonlytails/rubymodfabric">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=rubymodfabric&theme=dark" />
+<a href="https://github.com/theonlytails/loottables">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=loottables&theme=dark" />
 </a>
 
 ### Programming stats
