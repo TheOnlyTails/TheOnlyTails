@@ -10,8 +10,8 @@
 - ⚡ Fun fact: My favorite word in the English language is kerfuffle.
 
 ### Connect with me!
-[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg"/>][twitter]
-[<img align="left" alt="Reddit" width="26px" src="https://raw.githubusercontent.com/theonlytails/theonlytails.com/main/images/reddit.png"/>][reddit]
+[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/theonlytails/theonlytails.com/main/public/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="Reddit" width="26px" src="https://raw.githubusercontent.com/theonlytails/theonlytails.com/main/public/icons/reddit.svg"/>][reddit]
 
 <br/>
 
