@@ -1,11 +1,12 @@
-![GitHub followers](https://img.shields.io/github/followers/TheOnlyTails?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/The_Only_Tails?label=Follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/TheOnlyTails?style=social)][github_page]
+[![Twitter Follow](https://img.shields.io/twitter/follow/The_Only_Tails?label=Follow&style=social)][twitter]
 
-# Hi there, I'm [TheOnlyTails](https://home.theonlytails.com)! 👋
+# Hi, I'm [TheOnlyTails](https://theonlytails.com)! 👋
 
-## I'm a programmer and a Minecraft modder!
+## A curious Java and Kotlin programmer!
 - 💻 I’m usually working on Minecraft mods, with both the [Forge](https://github.com/MinecraftForge/MinecraftForge) and [Fabric](https://github.com/FabricMC/fabric) modding APIs.
-- 📫 Reach me at Twitter! 
+- 🌐 Right now I'm working on my site, [theonlytails.com][home_page]!
+- 📫 Reach me on Twitter! 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite word in the English language is kerfuffle.
 
@@ -32,14 +33,20 @@
 <a href="https://github.com/theonlytails/loottables">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=loottables&theme=dark" />
 </a>
+<a href="https://github.com/theonlytails/theonlytails.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=theonlytails.com&theme=dark" />
+</a>
 
 ### Programming stats
 <img align="left" alt="TheOnlyTails' GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=TheOnlyTails&include_all_commits=true&show_icons=true&hide_border=true&theme=dark"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyTails&hide=c%23,shaderlab,hlsl&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[home_page]: https://theonlytails.com/
 [twitter]: https://twitter.com/The_Only_Tails/
 [reddit]: https://www.reddit.com/user/TheOnlyTails/
+[github_page]: https://github.com/theonlytails
+
 [java]: https://www.java.com/
 [kotlin]: https://www.kotlinlang.org/
 [python]: https://www.python.org/
