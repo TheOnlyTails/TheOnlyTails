@@ -19,12 +19,13 @@
 ### Languages and tools!
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>][java]
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>][kotlin]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>][csharp]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>][python]
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://raw.githubusercontent.com/JetBrains/intellij-community/master/platform/icons/src/Logo_welcomeScreen.png"/>][intellij]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
+[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>][typescript]
+[<img align="left" alt="Svelte" width="26px" src="https://svelte.dev/favicon.png"/>][svelte]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>][javascript]
+[<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][react]
 
 <br/>
+<hr/>
 
 ### My projects
 <a href="https://github.com/theonlytails/rubymod">
@@ -49,8 +50,7 @@
 
 [java]: https://www.java.com/
 [kotlin]: https://www.kotlinlang.org/
-[python]: https://www.python.org/
-[intellij]: https://www.jetbrains.com/idea/
-[vscode]: https://code.visualstudio.com/
-[unity]: https://unity.com/
-[csharp]: https://dotnet.microsoft.com/languages
+[typescript]: https://www.typescriptlang.org/
+[javascript]: https://www.javascript.com/
+[svelte]: https://svelte.dev/
+[react]: https://reactjs.org/
