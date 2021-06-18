@@ -1,7 +1,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/TheOnlyTails?style=social)][github_page]
 [![Twitter Follow](https://img.shields.io/twitter/follow/The_Only_Tails?label=Follow&style=social)][twitter]
 
-# <img alt="GitHub" width="32" src="https://img.icons8.com/fluent/48/000000/github.png"/> Hi, I'm [TheOnlyTails](https://theonlytails.com)! 👋
+# <img alt="GitHub" width="32" src="https://img.icons8.com/fluent/48/000000/github.png"/> Hi, I'm [TheOnlyTails](https://theonlytails.com)!
 
 ## A curious Java and Kotlin programmer!
 - 💻 I’m usually working on Minecraft mods, with the [Forge](https://github.com/MinecraftForge/MinecraftForge) modding API, and on websites using the [Svelte][svelte] web framework.
