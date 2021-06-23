@@ -17,8 +17,8 @@
 <br/>
 
 ### Languages and tools!
-[<img align="left" alt="Java" width="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>](java)
 [<img align="left" alt="Kotlin" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>](kotlin)
+[<img align="left" alt="Java" width="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>](java)
 [<img align="left" alt="TypeScript" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>](typescript)
 [<img align="left" alt="Svelte" width="32" src="https://svelte.dev/favicon.png"/>](svelte)
 [<img align="left" alt="JavaScript" width="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>](javascript)
