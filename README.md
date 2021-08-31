@@ -30,11 +30,11 @@
 <a href="https://github.com/cryptic-cosmos/cryptic-cosmos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cryptic-cosmos&repo=cryptic-cosmos&theme=dark" />
 </a>
-<a href="https://github.com/theonlytails/loottables">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=loottables&theme=dark" />
+<a href="https://github.com/theonlytails/lootgoblin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=lootgoblin&theme=dark" />
 </a>
-<a href="https://github.com/theonlytails/blockmodels">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=blockmodels&theme=dark" />
+<a href="https://github.com/theonlytails/modelgoblin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=modelgoblin&theme=dark" />
 </a>
 <a href="https://github.com/theonlytails/theonlytails.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=theonlytails.com&theme=dark" />
