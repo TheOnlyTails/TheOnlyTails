@@ -33,8 +33,8 @@
 <a href="https://github.com/theonlytails/lootgoblin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=lootgoblin&theme=dark" />
 </a>
-<a href="https://github.com/theonlytails/modelgoblin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=modelgoblin&theme=dark" />
+<a href="https://github.com/files-community/website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=files-community&repo=website&theme=dark" />
 </a>
 <a href="https://github.com/theonlytails/theonlytails.com" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=theonlytails.com&theme=dark" />
