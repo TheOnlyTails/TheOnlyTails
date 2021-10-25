@@ -9,20 +9,20 @@
 - 😄 Pronouns: He/Him
 
 ### Connect with me!
-[<img align="left" alt="Twitter" width="32" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](twitter)
+[<img align="left" alt="Twitter" width="32" src="https://abs.twimg.com/favicons/twitter.ico"/>](twitter)
 [<img align="left" alt="Email" width="32" src="https://img.icons8.com/fluent/48/000000/email.png">][email]
-[<img align="left" alt="Discord" width="32" src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>](discord.com/users/645291351562518542)
-[<img align="left" alt="Reddit" width="32" src="https://img.icons8.com/fluent/48/000000/reddit.png"/>](reddit)
+[<img align="left" alt="Discord" width="32" src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"/>](https://discord.com/users/645291351562518542)
+[<img align="left" alt="Reddit" width="32" src="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png"/>](reddit)
 
 <br/>
 
 ### Languages and tools!
-[<img align="left" alt="Kotlin" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>](kotlin)
+[<img align="left" alt="Kotlin" width="32" src="https://kotlinlang.org/assets/images/favicon.svg?&v=8607ff59d5296c7642ecd72bd3daa79b"/>](kotlin)
 [<img align="left" alt="Java" width="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>](java)
-[<img align="left" alt="TypeScript" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>](typescript)
+[<img align="left" alt="TypeScript" width="32" src="https://www.typescriptlang.org/favicon-32x32.png"/>](typescript)
 [<img align="left" alt="Svelte" width="32" src="https://svelte.dev/favicon.png"/>](svelte)
 [<img align="left" alt="JavaScript" width="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>](javascript)
-[<img align="left" alt="ReactJS" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>](react)  
+[<img align="left" alt="Minecraft Forge" width="32" src="https://files.minecraftforge.net/static/images/favicon-32x32.png"/>][forge]  
 
 <br/>
 
@@ -56,4 +56,4 @@
 [typescript]: https://www.typescriptlang.org/
 [javascript]: https://www.javascript.com/
 [svelte]: https://svelte.dev/
-[react]: https://reactjs.org/
+[forge]: https://forums.minecraftforge.net/
