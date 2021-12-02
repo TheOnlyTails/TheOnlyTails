@@ -22,7 +22,7 @@
 [<img align="left" alt="TypeScript" width="32" src="https://www.typescriptlang.org/favicon-32x32.png"/>](typescript)
 [<img align="left" alt="Svelte" width="32" src="https://svelte.dev/favicon.png"/>](svelte)
 [<img align="left" alt="JavaScript" width="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>](javascript)
-[<img align="left" alt="Minecraft Forge" width="32" src="https://files.minecraftforge.net/static/images/favicon-32x32.png"/>][forge]  
+[<img align="left" alt="Minecraft Forge" width="32" src="https://files.minecraftforge.net/static/images/favicon-32x32.png"/>](forge)
 
 <br/>
 
