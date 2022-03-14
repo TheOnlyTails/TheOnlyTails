@@ -2,7 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/The_Only_Tails?label=Follow&style=social)][twitter]
 
 # Hi, I'm [TheOnlyTails](https://theonlytails.com)!
-I'm a curious Frontend programmer, who also works in Kotlin.
+I'm a curious frontend programmer, who also works in Kotlin.
 - 💻 I’m usually working on websites with [Svelte][svelte], and on Minecraft mods with [Forge][forge].
 - 📫 Reach me on Twitter! 
 - 😄 Pronouns: He/Him
