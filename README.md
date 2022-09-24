@@ -11,7 +11,6 @@ I'm a curious frontend programmer, who also works in Kotlin.
 [<img align="left" alt="Twitter" width="32" src="https://abs.twimg.com/favicons/twitter.ico"/>][twitter]
 [<img align="left" alt="Email" width="32" src="https://img.icons8.com/fluent/48/000000/email.png">][email]
 [<img align="left" alt="Discord" width="32" src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"/>](https://discord.com/users/645291351562518542)
-[<img align="left" alt="Reddit" width="32" src="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png"/>][reddit]
 
 <br/>
 
@@ -21,7 +20,6 @@ I'm a curious frontend programmer, who also works in Kotlin.
 [<img align="left" alt="TypeScript" width="32" src="https://www.typescriptlang.org/favicon-32x32.png"/>][typescript]
 [<img align="left" alt="Svelte" width="32" src="https://svelte.dev/favicon.png"/>][svelte]
 [<img align="left" alt="JavaScript" width="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>][javascript]
-[<img align="left" alt="Minecraft Forge" width="32" src="https://files.minecraftforge.net/static/images/favicon-32x32.png"/>][forge]
 
 <br/>
 
@@ -32,8 +30,8 @@ I'm a curious frontend programmer, who also works in Kotlin.
 <a href="https://github.com/tropix126/fluent-svelte">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tropix126&repo=fluent-svelte&theme=dark" />
 </a>
-<a href="https://github.com/theonlytails/lootgoblin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=lootgoblin&theme=dark" />
+<a href="https://github.com/theonlytails/archery-clock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=archery-clock&theme=dark" />
 </a>
 <a href="https://github.com/theonlytails/theonlytails.com" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=theonlytails.com&theme=dark" />
@@ -46,7 +44,6 @@ I'm a curious frontend programmer, who also works in Kotlin.
 
 [home_page]: https://theonlytails.com/
 [twitter]: https://twitter.com/The_Only_Tails/
-[reddit]: https://www.reddit.com/user/TheOnlyTails/
 [github_page]: https://github.com/theonlytails
 [email]: mailto:theonlytails@theonlytails.com
 
@@ -55,4 +52,3 @@ I'm a curious frontend programmer, who also works in Kotlin.
 [typescript]: https://www.typescriptlang.org/
 [javascript]: https://www.javascript.com/
 [svelte]: https://svelte.dev/
-[forge]: https://forums.minecraftforge.net/
