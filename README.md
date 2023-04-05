@@ -5,7 +5,7 @@
 I'm a curious frontend programmer, who also works in Kotlin.
 - 💻 I’m usually working on websites with [Svelte][svelte].
 - 📫 Reach me on Twitter! 
-- 😄 Pronouns: he/they
+- 😄 Pronouns: he/she/they
 
 ### Connect with me!
 [<img align="left" alt="Twitter" width="32" src="https://abs.twimg.com/favicons/twitter.ico"/>][twitter]
