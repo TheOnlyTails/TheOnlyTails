@@ -37,7 +37,7 @@ I'm a curious frontend programmer, who also works in Kotlin.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=theonlytails.com&theme=dark" />
 </a>
 
-### <img alt="Graph" width="24" src="https://img.icons8.com/fluent/48/000000/graph.png"/> Programming stats
+### 📈 Programming stats
 <img align="left" alt="TheOnlyTails' GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=TheOnlyTails&include_all_commits=true&show_icons=true&hide_border=true&theme=dark"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyTails&hide=c%23,shaderlab,hlsl,c%2B%2B&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
