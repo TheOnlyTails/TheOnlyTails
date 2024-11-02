@@ -5,7 +5,7 @@
 I'm a curious frontend programmer, who also works in Kotlin.
 - 💻 I’m usually working on websites with [Svelte][svelte].
 - 📫 Reach me on Twitter! 
-- 😄 Pronouns: she/they
+- 😄 Pronouns: she/her
 
 ### Connect with me!
 [<img align="left" alt="Twitter" width="32" src="https://abs.twimg.com/favicons/twitter.ico"/>][twitter]
@@ -14,12 +14,12 @@ I'm a curious frontend programmer, who also works in Kotlin.
 
 <br/>
 
-### Languages and tools!
-[<img align="left" alt="Kotlin" width="32" src="https://kotlinlang.org/assets/images/favicon.svg?&v=8607ff59d5296c7642ecd72bd3daa79b"/>][kotlin]
-[<img align="left" alt="Java" width="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>][java]
-[<img align="left" alt="TypeScript" width="32" src="https://www.typescriptlang.org/favicon-32x32.png"/>][typescript]
-[<img align="left" alt="Svelte" width="32" src="https://svelte.dev/favicon.png"/>][svelte]
-[<img align="left" alt="JavaScript" width="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>][javascript]
+### Languages and technologies!
+[<img align="left" alt="Kotlin" width="32" src="https://api.iconify.design/logos:kotlin-icon.svg?color=%23888888"/>][kotlin]
+[<img align="left" alt="Rust" width="32" src="https://api.iconify.design/mdi:language-rust.svg?color=%23888888"/>][rust]
+[<img align="left" alt="TypeScript" width="32" src="https://api.iconify.design/logos:typescript-icon.svg?color=%23888888"/>][typescript]
+[<img align="left" alt="Svelte" width="32" src="https://api.iconify.design/logos:svelte-icon.svg?color=%23888888"/>][svelte]
+[<img align="left" alt="Gleam" width="32" src="https://api.iconify.design/vscode-icons:file-type-gleam.svg?color=%23888888"/>][gleam]
 
 <br/>
 
@@ -27,11 +27,11 @@ I'm a curious frontend programmer, who also works in Kotlin.
 <a href="https://github.com/files-community/website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=files-community&repo=website&theme=dark" />
 </a>
-<a href="https://github.com/tropix126/fluent-svelte">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tropix126&repo=fluent-svelte&theme=dark" />
+<a href="https://github.com/lipu-linku/lipu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lipu-linku&repo=lipu&theme=dark" />
 </a>
-<a href="https://github.com/theonlytails/archery-clock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=archery-clock&theme=dark" />
+<a href="https://github.com/lipu-linku/sona">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lipu-linku&repo=sona&theme=dark" />
 </a>
 <a href="https://github.com/theonlytails/theonlytails.com" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheOnlyTails&repo=theonlytails.com&theme=dark" />
@@ -47,8 +47,8 @@ I'm a curious frontend programmer, who also works in Kotlin.
 [github_page]: https://github.com/theonlytails
 [email]: mailto:theonlytails@theonlytails.com
 
-[java]: https://www.java.com/
+[rust]: https://www.java.com/](https://www.rust-lang.org/
 [kotlin]: https://www.kotlinlang.org/
 [typescript]: https://www.typescriptlang.org/
-[javascript]: https://www.javascript.com/
+[gleam]: https://gleam.run/
 [svelte]: https://svelte.dev/
