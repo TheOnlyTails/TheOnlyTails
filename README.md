@@ -27,7 +27,7 @@
 
 ### projects
 <a href="https://github.com/files-community/website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=files-community&repo=website&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theonlytails&repo=nymph_lang&theme=dark" />
 </a>
 <a href="https://github.com/lipu-linku/lipu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lipu-linku&repo=lipu&theme=dark" />
