@@ -26,7 +26,7 @@
 <br/>
 
 ### projects
-<a href="https://github.com/files-community/website">
+<a href="https://github.com/theonlytails/nymph_lang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theonlytails&repo=nymph_lang&theme=dark" />
 </a>
 <a href="https://github.com/lipu-linku/lipu">
